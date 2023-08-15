@@ -2,7 +2,7 @@
 ## Lista de teste técnico em Ruby
 
 Meu progresso é gerenciado por esse [project]():
-- [x] [Dia 01 Teste Técnicos em Ruby]()
+- [x] [Dia 01 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby_01/issues/1)
 - [] [Dia 02 Teste Técnicos em Ruby]()
 - [] [Dia 03 Teste Técnicos em Ruby]()
 - [] [Dia 04 Teste Técnicos em Ruby]()
