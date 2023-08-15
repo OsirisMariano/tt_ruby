@@ -1,7 +1,7 @@
 ![]()
 ## Lista de teste técnico em Ruby
 
-Meu progresso é gerenciado por esse [project]():
+Meu progresso é gerenciado por esse [project](https://github.com/users/OsirisMariano/projects/46):
 - [x] [Dia 01 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby_01/issues/1)
 - [] [Dia 02 Teste Técnicos em Ruby]()
 - [] [Dia 03 Teste Técnicos em Ruby]()
