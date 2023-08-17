@@ -1,4 +1,4 @@
-=begin
+/*
 A partir das tabelas do banco de dados abaixo, escreva uma query sql que através de
 join, retorne o nome completo, cpf, equipe e cargo dos colaboradores ordenando os por cpf.
 
@@ -21,4 +21,18 @@ id | name
 1  | back-endimpr
 2  | Desenvolvedor front-end
 3  | Encantador de clientes
-=end
+*/
+
+SELECT
+    CONCAT(employees.first_name, ' ', employees.last_name) AS nome_completo,
+    employees.cpf,
+    teams.team_name AS nome_equipe,
+    job_titles.job_title AS cargo
+FROM
+    employees
+        INNER JOIN
+    teams ON employees.team_id = teams.team_id
+        INNER JOIN
+    job_titles ON employees.job_title_id = job_titles.job_title_id
+ORDER BY
+    employees.cpf;
