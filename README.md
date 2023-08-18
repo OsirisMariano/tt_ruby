@@ -6,7 +6,7 @@ Meu progresso é gerenciado por esse [project](https://github.com/users/OsirisMa
 - [x] [Dia 02 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby_01/issues/2)
 - [x] [Dia 03 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/3)
 - [x] [Dia 04 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/4)
-- [] [Dia 05 Teste Técnicos em Ruby]()
+- [x] [Dia 05 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/5)
 - [] [Dia 06 Teste Técnicos em Ruby]()
 - [] [Dia 07 Teste Técnicos em Ruby]()
 - [] [Dia 08 Teste Técnicos em Ruby]()
