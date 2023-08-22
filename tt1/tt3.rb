@@ -11,3 +11,21 @@ Regras
 ● n = 0 deve retornar 1
 ● n > 0 deve retornar n!
 =end
+
+def factorial(n)
+  return nil if n < 0
+  return 1 if n == 0
+
+  result = 1
+  (1..).each do |i|
+    result *= i
+  end
+
+  result
+end
+
+#Exemplos de uso
+puts factorial(-5)  #Deve retornar nil
+puts factorial(0)   #Deve retornar i
+puts factorial(5)   #Deve retornar 120
+puts factorial(10)  #Exemplo com um número maior
