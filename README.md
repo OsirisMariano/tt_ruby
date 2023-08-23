@@ -10,4 +10,4 @@ Meu progresso é gerenciado por esse [project](https://github.com/users/OsirisMa
 - [x] [Dia 06 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/6)
 - [x] [Dia 07 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/7)
 - [x] [Dia 08 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/8)
-- [] [Dia 09 Teste Técnicos em Ruby]()
+- [x] [Dia 09 Teste Técnicos em Ruby](https://github.com/OsirisMariano/tt_ruby/issues/9)
